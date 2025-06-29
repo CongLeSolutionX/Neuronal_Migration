@@ -11,7 +11,7 @@ import SwiftUI
 struct Neuronal_MigrationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NeuronalMigrationView()
         }
     }
 }
